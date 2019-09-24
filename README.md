@@ -1,1 +1,1 @@
-# intellijSettings
+# IntelliJSettings
