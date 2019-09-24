@@ -1,0 +1,123 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+      </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/DEV/huuugestarsjavaserver" value="PREVIEW" />
+            <entry key="$USER_HOME$/DEV/huuugestarsjavatests" value="PREVIEW" />
+            <entry key="$USER_HOME$/DEV/magiccasinojavaserver" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="vmOptionsForImporter" value="-Xmx768m" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturityJava</id>
+              </State>
+              <State>
+                <id>JUnitJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 5Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 7Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavadocJava</id>
+              </State>
+              <State>
+                <id>Numeric issuesJava</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
